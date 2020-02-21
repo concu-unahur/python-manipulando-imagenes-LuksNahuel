@@ -128,3 +128,4 @@ dmypy.json
 
 # Imagenes
 imagenes/*.jpg
+imagenes/*.png
